@@ -403,7 +403,7 @@ void ingresarNumeros() {
     int n;
     int valor;
 
-    cout << "\nCuantos numeros desea ingresar? ";
+    cout << "\n Numeros a ingresar: ";
     cin >> n;
 
     while (n <= 0) {
@@ -579,7 +579,7 @@ void mostrarMenu() {
     cout << "\n=====================================\n";
     cout << " Nombre: ERICKA DANIELA CALDERA GOMEZ\n";
     cout << "=====================================\n";
-    cout << " MENU\n";
+    cout << " ----------------MENU-----------------\n";
     cout << "1. Ingresar N numeros\n";
     cout << "2. Mostrar pila\n";
     cout << "3. Mostrar cola\n";
