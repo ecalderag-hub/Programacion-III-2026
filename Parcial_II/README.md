@@ -84,7 +84,7 @@ Reorganizar estructuras
 Salir
 
 - Instrucciones de ejecución
-Instrucciones de ejecución
+
 Abrir el programa en un compilador C++ (CodeBlocks, DevC++, VS Code, etc.)
 Compilar el archivo
 Ejecutar el programa
