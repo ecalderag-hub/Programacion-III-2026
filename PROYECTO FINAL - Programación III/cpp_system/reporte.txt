@@ -1,0 +1,12 @@
+===== REPORTE DEL SISTEMA =====
+
+Proyecto Final - Red Social Academica
+
+Estructuras implementadas:
+- HashTable
+- AVL
+- Grafo
+- Lista de Proyectos
+- Pila
+
+Reporte generado correctamente.

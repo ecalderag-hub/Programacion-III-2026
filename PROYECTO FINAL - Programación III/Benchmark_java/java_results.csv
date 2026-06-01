@@ -1,0 +1,4 @@
+language,operation,structure,records,time_ms
+Java,insert,HashMap,10000,1.9388
+Java,search,HashMap,10000,1.5841
+Java,insert,TreeMap,10000,6.0887
